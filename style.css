@@ -1,0 +1,73 @@
+
+body{
+    background-image: url(food2.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+
+.container{
+    margin: 0px 20px 0px 20px;
+
+}
+
+label,input{
+    display: block;
+}
+
+#gender{
+    display: inline;
+    width: 50px;
+}
+
+.food{
+    display: inline;
+    width: 50px;
+}
+
+th{
+    border: 2px solid #CD430C;
+    background-color: #d38e8579;
+    border-collapse: collapse;
+    color:#eeeeee98;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    width: 200px;
+}
+
+td{
+    width: 200px;
+    color: #CD430C;
+    font-style: italic;
+    font-size: 18px;
+    font-weight: bolder;
+    border-bottom: 3px solid #CD430C ;
+   
+
+}
+
+.col-3{
+    background-color: rgba(255, 255, 255, 0.616);
+    height: 100vh;
+    color: black;
+    font-weight: bold;
+    font-size: 17px;
+}
+.col-8{
+    background-color: #d3ae8515;
+    color: #cfbdb5ea;
+    height: 100vh;
+    margin-left: 150px;
+}
+
+input{
+    width: 400px;
+    margin-bottom: 10px;
+}
+
+.submit{
+    width: 100px;
+    border-radius: 10px;
+    background-color: #a53232b0;
+    margin-top: 50px;
+}
